@@ -69,13 +69,8 @@ Store chat history in a database
 📢 Note
 ⚠️ This project is for educational purposes. For production, consider adding authentication, encryption, and a persistent database.
 
-👩‍💻 Author
 
-Shaik Syed Jafreen
-
-B.Tech – Computer Science & Technology
-
-MITS College, Rayachoty
+![Image](https://github.com/user-attachments/assets/40e91f74-7159-43ac-b5f5-2a0185dc4fe6)
 
 
 
